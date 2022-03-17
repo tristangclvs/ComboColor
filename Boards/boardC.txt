@@ -1,0 +1,15 @@
+# -------------------------------------------------------------------
+# COMBO COLOR : boardC
+# ABCD=+1 EFGH=+2 IJK=+3 LM=+4 NOP=-2 QR=-4 ST=-6 UV=x2 WX=x3 Z=0
+# -------------------------------------------------------------------
+WNNAAASUUUU
+WWNAAISQLLU
+EWNIIISQQLL
+EWNFIFSBQLC
+EEEFFFSBQCC
+RRJJJZBBBCC
+RRDJOGGGPPK
+RDDJOGPPPKK
+MMDDOGHHVVK
+XMMMOHHTTVK
+XXXXOHTTTVV
