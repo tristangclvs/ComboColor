@@ -1,0 +1,17 @@
+Aide ComboColor
+
+*************************************************************
+
+ComboColor est un jeu de conquête territoriale en 1 contre 1.
+Chaque joueur contrôle deux couleurs : 
+- Joueur 1 : Rouge et Bleu
+- Joueur 2 : Vert et Jaune  
+Au clic, les couleurs alternent suivant ce schéma : Rouge, Vert, Bleu, Jaune, Rouge ...
+Vous verrez sur les tables de jeu, que certaines zones attribuent des points (positifs et négatifs) ou multiplient les scores déjà obtenus.
+
+Chaque couleur a son propre score, calculé en multipliant la partie "addition/soustraction" avec la partie "multiplication".
+Le score total d'un joueur sera déterminé par la MULTIPLICATION des scores de ses couleurs respectives. 
+Faites donc attention à ne pas négliger une couleur, 
+cela pourrait se retourner contre vous si elle passait en négatif !!
+
+*************************************************************
