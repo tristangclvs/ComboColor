@@ -1,4 +1,6 @@
+Help ComboColor
 
+*************************************************************
 ComboColor is a game of territorial conquest in 1 vs 1.
 Each player controls two colors: 
 - Player 1: Red and Blue
@@ -11,4 +13,4 @@ The total score of a player will be determined by the MULTIPLICATION of the scor
 So be careful not to neglect any color, 
 it could turn against you if it goes negative!
 
-Translated with www.DeepL.com/Translator (free version)
+*************************************************************
