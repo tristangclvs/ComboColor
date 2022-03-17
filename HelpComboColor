@@ -1,0 +1,14 @@
+
+ComboColor is a game of territorial conquest in 1 vs 1.
+Each player controls two colors: 
+- Player 1: Red and Blue
+- Player 2 : Green and Yellow  
+When clicking, the colors alternate according to this scheme: Red, Green, Blue, Yellow, Red ...
+You will see on the game tables, that some zones give points (positive and negative) or multiply the scores already obtained.
+
+Each color has its own score, calculated by multiplying the "addition/subtraction" part with the "multiplication" part.
+The total score of a player will be determined by the MULTIPLICATION of the scores of his respective colors. 
+So be careful not to neglect any color, 
+it could turn against you if it goes negative!
+
+Translated with www.DeepL.com/Translator (free version)
